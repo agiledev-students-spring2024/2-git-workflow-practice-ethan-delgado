@@ -18,3 +18,5 @@ As the industry continues to navigate these changes, the essence of the develope
 
 For an in-depth exploration of the impact of Generative AI on software development in 2023, read the full article on [ITPro Today](https://www.itprotoday.com/software-development/5-key-software-development-trends-2023)&#8203;``【oaicite:0】``&#8203;.
 
+
+Natalie Wu: Hi! The link doesn't work for me, but I can provide my commentary on Generative AI. The rise of Generative AI has definitely raised a lot of concern, especially with fears that it will replace roles/jobs. I hope that it will become another tool to more sophisicated software development, erasing the need for repetition etc. 
